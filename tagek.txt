@@ -1,0 +1,3 @@
+Ismeri a legfontosabb CSS3-jellemzőket (color, opacity, background*, border*, 
+box-shadow, box-sizing, margin*, padding*, overflow, display, float, z-index, rel, width*, height*, top, bottom, left, right, position, line-height, text-align, verticalalign, textjustify, texttransform, font, font-family, font-size, font-style, textdecoration, list-style*, cursor, letter-spacing, viewport, white-space), és ezek segítségével képes elvégezni a megfelelő formázási műveleteket (a *-gal jelölt elemek 
+több jellemzőt tartalmaznak, pl. margin-left, margin-right)
