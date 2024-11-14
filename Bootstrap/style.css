@@ -1,0 +1,17 @@
+body {
+    /* background-image: url(/kepek/tajkep1.jpg); */
+}
+
+.container {
+    background-color: rgba(0, 128, 0, 0.3);
+    padding: 3px;
+}
+
+.row {
+    border: 1px solid red;
+}
+
+.col {
+    margin: 3px;
+    border: 1px dotted blue;
+}
