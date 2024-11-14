@@ -4,12 +4,20 @@ body{
 }
 
 .header{
-	background-image: url("kepek/fejlec.jpg");
 	height:450px;
 	/* background-repeat:no-repeat; */ /*(no-)repeat - (nem) ismétli a képet*/
 	background-size: contain; /*szélességét*/
 	/* background-size: cover; */ /*maggasságát*/
+	background-attachment: fixed;
 }
+
+.hatter1{
+	background-image: url("kepek/fejlec.jpg");	
+}
+.hatter2{
+	background-image: url("kepek/fejlec2.jpg");
+}
+
 .header p{
 	margin: 0px;
 	text-align:center;
@@ -29,15 +37,12 @@ body{
 .feher-hatteres{
 	background-color:lightgray;
 	width: 50%;
-	float: left;
 	height: 100%;
 	text-align: center;
-
 }
 .szoveg-kep{
 	background-color:white;
 	width: 50%;
-	float: right;
 	height: 100%;
 	
 }
@@ -70,4 +75,12 @@ body{
 
 h2{
 	margin-top:0;
+}
+
+.bal{
+	float: left;
+}
+
+.jobb{
+	float: right;
 }

@@ -11,7 +11,7 @@ body {
     border: 1px solid red;
 }
 
-.col {
+.row div {
     margin: 3px;
     border: 1px dotted blue;
 }
